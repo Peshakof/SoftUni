@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.deps.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.dll
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\bin\Debug\netcoreapp2.0\08. Condense Array to Number.pdb
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.dll
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\08. Condense Array to Number\obj\Debug\netcoreapp2.0\08. Condense Array to Number.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\01.PhoneBook.deps.json
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\01.PhoneBook.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\01.PhoneBook.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\01.PhoneBook.dll
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\bin\Debug\netcoreapp2.0\01.PhoneBook.pdb
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\01.PhoneBook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\01.PhoneBook.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\01.PhoneBook.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\01.PhoneBook.dll
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\10.Dictionaries, Lambda and LINQ - Exercises\obj\Debug\netcoreapp2.0\01.PhoneBook.pdb

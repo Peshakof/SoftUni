@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\bin\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 8. Sum of Odd Numbers\obj\Debug\netcoreapp2.0\Problem 8. Sum of Odd Numbers.pdb

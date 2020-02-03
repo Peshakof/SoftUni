@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px/1.5;
+}
+
+.container {
+    display: flex;
+    padding: 1rem;
+    background-color: aquamarine;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.number {
+    background-color: antiquewhite;
+    flex-grow:0;
+    flex-shrink: 1;
+    flex-basis: 10rem;
+    align-content: space-around ;
+}

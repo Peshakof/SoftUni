@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.deps.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.dll
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.pdb
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.dll
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.pdb

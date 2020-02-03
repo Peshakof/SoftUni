@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\bin\Debug\netcoreapp2.0\Character stats.deps.json
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\bin\Debug\netcoreapp2.0\Character stats.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\bin\Debug\netcoreapp2.0\Character stats.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\bin\Debug\netcoreapp2.0\Character stats.dll
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\bin\Debug\netcoreapp2.0\Character stats.pdb
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\obj\Debug\netcoreapp2.0\Character stats.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\obj\Debug\netcoreapp2.0\Character stats.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\obj\Debug\netcoreapp2.0\Character stats.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\obj\Debug\netcoreapp2.0\Character stats.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\obj\Debug\netcoreapp2.0\Character stats.dll
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Character stats\obj\Debug\netcoreapp2.0\Character stats.pdb

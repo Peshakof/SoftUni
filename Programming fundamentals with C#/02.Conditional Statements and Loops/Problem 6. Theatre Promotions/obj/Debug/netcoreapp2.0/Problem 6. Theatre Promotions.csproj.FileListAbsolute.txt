@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.pdb

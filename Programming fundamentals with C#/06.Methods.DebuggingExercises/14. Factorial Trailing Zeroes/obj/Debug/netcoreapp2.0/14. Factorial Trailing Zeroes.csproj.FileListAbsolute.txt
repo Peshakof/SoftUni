@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.deps.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.pdb
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.pdb

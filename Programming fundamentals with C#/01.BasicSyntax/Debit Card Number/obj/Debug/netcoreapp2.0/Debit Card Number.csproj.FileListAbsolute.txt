@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\bin\Debug\netcoreapp2.0\Debit Card Number.deps.json
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\bin\Debug\netcoreapp2.0\Debit Card Number.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\bin\Debug\netcoreapp2.0\Debit Card Number.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\bin\Debug\netcoreapp2.0\Debit Card Number.dll
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\bin\Debug\netcoreapp2.0\Debit Card Number.pdb
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.dll
+D:\SoftUni\Programming fundamentals with C#\BasicSyntax\Debit Card Number\obj\Debug\netcoreapp2.0\Debit Card Number.pdb

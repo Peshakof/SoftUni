@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.deps.json
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.dll
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\bin\Debug\netcoreapp2.0\09. Index of Letters.pdb
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.dll
+D:\SoftUni\Programming fundamentals with C#\07.Arrays - Exercises\09. Index of Letters\obj\Debug\netcoreapp2.0\09. Index of Letters.pdb

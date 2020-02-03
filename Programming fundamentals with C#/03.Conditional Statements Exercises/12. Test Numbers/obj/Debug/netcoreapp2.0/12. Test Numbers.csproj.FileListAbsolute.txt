@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.pdb

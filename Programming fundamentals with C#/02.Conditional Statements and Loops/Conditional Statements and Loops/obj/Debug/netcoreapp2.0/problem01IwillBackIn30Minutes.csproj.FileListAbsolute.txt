@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\bin\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\bin\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\bin\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\bin\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\bin\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\obj\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\obj\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\obj\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\obj\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\obj\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Conditional Statements and Loops\obj\Debug\netcoreapp2.0\problem01IwillBackIn30Minutes.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.pdb

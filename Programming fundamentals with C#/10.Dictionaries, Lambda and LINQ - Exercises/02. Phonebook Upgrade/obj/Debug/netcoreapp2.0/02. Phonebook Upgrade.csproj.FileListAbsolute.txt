@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.deps.json
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.dll
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\netcoreapp2.0\02. Phonebook Upgrade.pdb
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.dll
+D:\SoftUni\Programming fundamentals with C#\10.Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\netcoreapp2.0\02. Phonebook Upgrade.pdb

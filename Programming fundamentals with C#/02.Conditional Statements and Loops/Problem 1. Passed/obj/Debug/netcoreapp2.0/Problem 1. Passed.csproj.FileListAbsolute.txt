@@ -1,0 +1,10 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements and Loops\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.pdb

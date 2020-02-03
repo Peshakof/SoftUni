@@ -1,0 +1,10 @@
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp2.0\02. Circle Area (Precision 12).deps.json
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp2.0\02. Circle Area (Precision 12).runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp2.0\02. Circle Area (Precision 12).runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp2.0\02. Circle Area (Precision 12).dll
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp2.0\02. Circle Area (Precision 12).pdb
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp2.0\02. Circle Area (Precision 12).csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp2.0\02. Circle Area (Precision 12).AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp2.0\02. Circle Area (Precision 12).AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp2.0\02. Circle Area (Precision 12).dll
+D:\SoftUni\Programming fundamentals with C#\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp2.0\02. Circle Area (Precision 12).pdb

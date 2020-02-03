@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.deps.json
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.dll
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.pdb
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.dll
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.pdb
+D:\SoftUni\Programming fundamentals with C#\05.Data Types and Variables - Exercises\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.csprojAssemblyReference.cache

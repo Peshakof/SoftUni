@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\bin\Debug\netcoreapp2.0\07. Cake Ingredients.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\bin\Debug\netcoreapp2.0\07. Cake Ingredients.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\bin\Debug\netcoreapp2.0\07. Cake Ingredients.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\bin\Debug\netcoreapp2.0\07. Cake Ingredients.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\bin\Debug\netcoreapp2.0\07. Cake Ingredients.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\obj\Debug\netcoreapp2.0\07. Cake Ingredients.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\obj\Debug\netcoreapp2.0\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\obj\Debug\netcoreapp2.0\07. Cake Ingredients.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\obj\Debug\netcoreapp2.0\07. Cake Ingredients.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\obj\Debug\netcoreapp2.0\07. Cake Ingredients.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\07. Cake Ingredients\obj\Debug\netcoreapp2.0\07. Cake Ingredients.pdb

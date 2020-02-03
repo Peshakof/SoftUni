@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.deps.json
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.dll
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\bin\Debug\netcoreapp2.0\07. Bomb Numbers.pdb
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.dll
+D:\SoftUni\Programming fundamentals with C#\09.Lists - Exercises\07. Bomb Numbers\obj\Debug\netcoreapp2.0\07. Bomb Numbers.pdb

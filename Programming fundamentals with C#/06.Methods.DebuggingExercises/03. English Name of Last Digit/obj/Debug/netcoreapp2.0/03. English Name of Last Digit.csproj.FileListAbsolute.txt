@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.deps.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb

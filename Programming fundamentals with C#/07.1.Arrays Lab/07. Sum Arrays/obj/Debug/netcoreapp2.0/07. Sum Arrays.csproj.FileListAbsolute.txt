@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\bin\Debug\netcoreapp2.0\07. Sum Arrays.deps.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\bin\Debug\netcoreapp2.0\07. Sum Arrays.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\bin\Debug\netcoreapp2.0\07. Sum Arrays.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\bin\Debug\netcoreapp2.0\07. Sum Arrays.dll
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\bin\Debug\netcoreapp2.0\07. Sum Arrays.pdb
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\obj\Debug\netcoreapp2.0\07. Sum Arrays.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\obj\Debug\netcoreapp2.0\07. Sum Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\obj\Debug\netcoreapp2.0\07. Sum Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\obj\Debug\netcoreapp2.0\07. Sum Arrays.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\obj\Debug\netcoreapp2.0\07. Sum Arrays.dll
+D:\SoftUni\Programming fundamentals with C#\07.1.Arrays Lab\07. Sum Arrays\obj\Debug\netcoreapp2.0\07. Sum Arrays.pdb

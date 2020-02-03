@@ -1,0 +1,10 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\bin\Debug\netcoreapp2.0\09. Count the Integers.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\bin\Debug\netcoreapp2.0\09. Count the Integers.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\bin\Debug\netcoreapp2.0\09. Count the Integers.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\bin\Debug\netcoreapp2.0\09. Count the Integers.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\bin\Debug\netcoreapp2.0\09. Count the Integers.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\obj\Debug\netcoreapp2.0\09. Count the Integers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\obj\Debug\netcoreapp2.0\09. Count the Integers.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\obj\Debug\netcoreapp2.0\09. Count the Integers.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\obj\Debug\netcoreapp2.0\09. Count the Integers.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\09. Count the Integers\obj\Debug\netcoreapp2.0\09. Count the Integers.pdb

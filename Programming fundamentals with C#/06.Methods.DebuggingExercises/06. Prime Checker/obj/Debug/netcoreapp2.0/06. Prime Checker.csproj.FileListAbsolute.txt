@@ -1,0 +1,10 @@
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.deps.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.pdb
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.pdb

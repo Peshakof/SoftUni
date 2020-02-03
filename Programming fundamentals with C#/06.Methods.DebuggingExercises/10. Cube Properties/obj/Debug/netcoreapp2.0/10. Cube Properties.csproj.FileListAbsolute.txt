@@ -1,0 +1,10 @@
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.deps.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.pdb
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.dll
+D:\SoftUni\Programming fundamentals with C#\06.Methods.DebuggingExercises\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.pdb

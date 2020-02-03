@@ -1,0 +1,11 @@
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.deps.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.runtimeconfig.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.runtimeconfig.dev.json
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\bin\Debug\netcoreapp2.0\04. Hotel.pdb
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.csprojAssemblyReference.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.AssemblyInfoInputs.cache
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.AssemblyInfo.cs
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.dll
+D:\SoftUni\Programming fundamentals with C#\Conditional Statements Exercises\04. Hotel\obj\Debug\netcoreapp2.0\04. Hotel.pdb

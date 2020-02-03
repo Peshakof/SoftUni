@@ -1,0 +1,12 @@
+body {
+    padding: 1rem;
+}
+
+ul {
+    padding-left: 2.5em;
+    margin-bottom: 1.5em;
+}
+
+ul p {
+    padding: 0;
+}
